@@ -1,0 +1,5 @@
+{"fields":[{"metadata":{},"name":"cookTime","nullable":true,"type":"string"},
+  {"metadata":{},"name":"datePublished","nullable":true,"type":"string"},
+  {"metadata":{},"name":"description","nullable":true,"type":"string"},
+  {"metadata":{},"name":"image","nullable":true,"type":"string"},
+  {"metadata":{},"name":"ingredients","nullable":true,"type":"string"},{"metadata":{},"name":"name","nullable":true,"type":"string"},{"metadata":{},"name":"prepTime","nullable":true,"type":"string"},{"metadata":{},"name":"recipeYield","nullable":true,"type":"string"},{"metadata":{},"name":"url","nullable":true,"type":"string"}],"type":"struct"}
